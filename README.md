@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...MERN stack
 - 💞️ I’m looking to collaborate on ...Open Source projects
 - 📫 How to reach me ...LinkedIn Profile : Soumyadip Roy - https://www.linkedin.com/in/soumyadip-roy-8994a3267/
+- Portfolio link : https://myroydevportfolio.netlify.app/
 - 😄 Pronouns: ...He/Him
 - 
 
