@@ -22,7 +22,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SoumyadipRoy17&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SoumyadipRoy1&theme=shades-of-purple&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SoumyadipRoy17&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadipRoy17&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
